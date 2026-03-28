@@ -1,0 +1,9 @@
+streamlit
+pandas
+python-dotenv
+langsmith
+langchain
+beautifulsoup4
+langchain-community
+mistralai
+langchain_google_genai
