@@ -1,9 +1,9 @@
-# LLM-Evaluation-Application-using-LangSmith
-This project is a Streamlit-based application for evaluating LLM applications using LangSmith. It allows users to upload ground truth data, select evaluation metrics, and run automated evaluations with results published to LangSmith.
+# RAG-based LLM-Evaluation-Application-using-LangSmith
+This project is a Streamlit-based application for evaluating RAG-based LLM applications using LangSmith. It allows users to upload ground truth data, select evaluation metrics, and run automated evaluations with results published to LangSmith.
 
 ## What the Application Does
 - Accepts ground truth data in CSV format  
-- Accepts an LLM application in Python (.py) format  
+- Accepts an RAG-based LLM application in Python (.py) format  
 - Allows selection of evaluation metrics: hallucination, relevance, and answer accuracy  
 - Creates a LangSmith dataset from the uploaded CSV  
 - Runs evaluation on the selected metrics  
